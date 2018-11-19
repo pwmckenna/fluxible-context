@@ -1,0 +1,23 @@
+{
+  "name": "fluxible-context",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwmckenna/fluxible-context.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwmckenna/fluxible-context/issues"
+  },
+  "homepage": "https://github.com/pwmckenna/fluxible-context#readme"
+}
